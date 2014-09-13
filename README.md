@@ -16,7 +16,7 @@ phonegap run android
 ```
 Om man har tur så startar appen på den inkopplade android telefonen, har man otur så öppnas den istället i en seg emulator. 
   För att kolla vilka enheter som finns anslutna så kan man köra  
-  ```adb devices````
+  ```adb devices```  
   finns den inte med där så testa att koppla ur och koppla in telefonen på nytt
 
 ##### Disclaimer  
